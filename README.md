@@ -11,7 +11,7 @@ Bu yerda pentesting, OSINT va boshqa kiber tadqiqot ishlaringiz uchun kerakli so
 - `passwords/` — O'zbekistonga hos parollar (til, ism va yil asosida)
 - `companies/` — kompaniyalar, tashkilotlar va brendlar
 - `names/` — o'zbek ismlari va familiyalari
-> ⚠️ Ism va familiyalar fayl nomlaridagi `_cleaned` qo'shimchasi - ro'yxatdagi so'zlardan ', ’, ‘, ʼ, \u02bc va boshqa apostroflar olib tashlanganligini, `o'` xarfi bor so'zlar ikki ko'rinishda: `o` va `u` bilan yozilganligini anglatadi (Misol: `po'lat` -> `polat`, `pulat`). 
+> ⚠️ Ism va familiyalar fayl nomlaridagi `_clean` qo'shimchasi - ro'yxatdagi so'zlardan `'`, `’`, `‘`, `ʼ`, `\u02bc` va boshqa apostroflar olib tashlanganligini, `o'` xarfi bor so'zlar ikki ko'rinishda: `o` va `u` bilan yozilganligini anglatadi (Misol: `po'lat` -> `polat`, `pulat`). 
 
 ---
 
