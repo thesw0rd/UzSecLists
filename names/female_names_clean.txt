@@ -437,7 +437,6 @@ bobura
 bodiya
 bodomcha
 bodomgul
-bog'buston
 bogboston
 bogda
 bogdagul
@@ -450,6 +449,7 @@ bogjon
 bogquli
 bogzagon
 bogzoda
+bog‘buston
 boisoy
 bokira
 bolakbeka
@@ -775,7 +775,6 @@ dudigul
 duliniso
 dunajon
 dundi
-dundijon
 dundiq
 dundiqcha
 dunyo
@@ -3239,7 +3238,6 @@ ofiyatbibi
 ofoq
 oftob
 oftoboy
-og'aug'lon
 ogabegi
 ogabegim
 ogabeka
@@ -3255,6 +3253,7 @@ ogasanam
 ogaxonim
 ogaxotin
 ogildona
+og‘aug‘lon
 ohista
 ohu
 ohukoz
@@ -3628,7 +3627,7 @@ oytugan
 oytul
 oytula
 oytuldi
-oytulg'on
+oytulg‘on
 oytuli
 oytulin
 oytuliq
@@ -3899,7 +3898,7 @@ qumriya
 qunduz
 qunduzbeka
 qunduzoy
-qung'iroy
+qung‘iroy
 quralay
 qurbi
 qurbonbeka
@@ -4486,7 +4485,7 @@ subhiya
 sudoba
 sufioson
 sufiya
-sug'diyona
+sug‘diyona
 suhaylo
 suhsur
 sulgin
@@ -4804,9 +4803,9 @@ tubi
 tufa
 tufaniso
 tufaxon
-tug'oncha
 tugalmacha
 tugmaoy
+tug‘oncha
 tuhfaniso
 tukina
 tulabbibi
@@ -4814,8 +4813,8 @@ tulachuchuk
 tulaganoy
 tulaniso
 tulanxon
-tulg'onoy
 tulgan
+tulg‘onoy
 tulinoy
 tuliq
 tuliqoy
@@ -4913,11 +4912,11 @@ tuybibi
 tuybuldi
 tuybuvi
 tuychiniso
-tuyg'on
 tuygul
 tuyguna
 tuygunbibi
 tuygunoy
+tuyg‘on
 tuyinbibi
 tuyinbuvi
 tuyindiq
@@ -4945,7 +4944,7 @@ ulbolsin
 ulboz
 ulbozor
 ulbul
-ulbulg'on
+ulbulg‘on
 ulbulsin
 ulbuvish
 ulcha
