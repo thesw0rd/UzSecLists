@@ -3,8 +3,6 @@
 **UzSecLists** — bu O'zbekiston uchun yaratilgan maxsus wordlist to'plami.
 Bu yerda pentesting, OSINT va boshqa kiber tadqiqot ishlaringiz uchun kerakli so'zlar rp'yxatlari jamlangan.
 
-> ⚠️ Loyihaning maqsadi — xavfsizlikni yaxshilash.
-
 ---
 
 ## 📁 Kategoriyalar
