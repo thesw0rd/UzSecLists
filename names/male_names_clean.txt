@@ -225,7 +225,6 @@ abobashir
 abram
 abrinur
 abror
-abu zarr
 abuali
 abubakr
 abuhanifa
@@ -277,6 +276,7 @@ abuturob
 abuyazid
 abuyusuf
 abuzar
+abuzarr
 abuzayd
 abvduvosid
 abzal
@@ -508,7 +508,7 @@ annash
 annasihat
 annasuyun
 annatogon
-annatug‘on
+annatugon
 annaturdi
 annatursun
 annur
@@ -1117,7 +1117,7 @@ boboxuja
 boboyor
 bobozarif
 bobur
-bodi, bodiy
+bodibodiy
 bodom
 bodomqul
 bogali
@@ -1291,7 +1291,7 @@ boydavlat
 boygoch
 boygon
 boygozi
-boyg‘uch
+boyguch
 boyim
 boyjigit
 boyjon
@@ -1363,7 +1363,7 @@ boytora
 boytosh
 boytoxta
 boytoy
-boytug‘on
+boytugon
 boytula
 boytulla
 boytuman
@@ -1372,9 +1372,9 @@ boytura
 boyturdi
 boytursun
 boytuxta
-boyug‘li
+boyugli
 boyuqongir
-boyuqung‘ir
+boyuqungir
 boyuzoq
 boyxoja
 boyxon
@@ -1403,9 +1403,9 @@ boztemir
 bozterak
 bozyigit
 bugiboy
+bugraxon
 bugro
 bugroxon
-bug‘raxon
 bujman
 buka
 bukan
@@ -1418,7 +1418,7 @@ bulakqul
 bular
 bulbashar
 bulbek
-bulg‘on
+bulgon
 buliqboy
 bulis
 bulish
@@ -1492,7 +1492,7 @@ buzrukzoda
 buzsha
 buztemir
 buzterak
-buzug‘lon
+buzuglon
 buzyigit
 dabir
 dada
@@ -1535,7 +1535,7 @@ dagar
 dahaboy
 dahriboy
 dain
-dala, dalaboy
+daladalaboy
 dalan
 dalboy
 daler
@@ -1665,7 +1665,7 @@ dilbek
 dildorali
 dildorbek
 dilfer
-dilli, dilliboy
+dillidilliboy
 dilmon
 dilmuhammad
 dilmurod
@@ -1789,9 +1789,9 @@ dovudqul
 dovul
 dovulli
 doxunda
-dug‘ma
-dug‘macha
-dug‘matoy
+dugma
+dugmacha
+dugmatoy
 dulanboy
 dulbor
 dulboy
@@ -1978,7 +1978,7 @@ eltura
 elturdi
 eltutmish
 eltuydi
-elug‘li
+elugli
 elxoja
 elxon
 elxuja
@@ -2082,10 +2082,10 @@ ertosh
 ertoy
 ertugan
 ertugdi
-ertug‘on
-ertug‘rul
+ertugon
+ertugrul
 ertura
-erug‘li
+erugli
 ervali
 erxoja
 erxon
@@ -2173,7 +2173,7 @@ eshonpulat
 eshonqul
 eshontogon
 eshontora
-eshontug‘on
+eshontugon
 eshontura
 eshonxoja
 eshonxon
@@ -2201,7 +2201,7 @@ eshtosh
 eshtoxta
 eshtoxtar
 eshtoy
-eshtug‘on
+eshtugon
 eshtuqqan
 eshtur
 eshtura
@@ -2499,7 +2499,7 @@ gupron
 gupronqul
 gurdiboy
 gurtboy
-gurug‘li
+gurugli
 guziolim
 habi
 habib
@@ -2986,6 +2986,7 @@ inommuhammad
 inomnazar
 inomqul
 inomtora
+inomtura
 inomulla
 inomxon
 inon
@@ -3006,7 +3007,6 @@ intiq
 intiqom
 intizom
 intizor
-in’omtura
 iqbol
 iqboliddin
 iqbolmirza
@@ -3036,7 +3036,9 @@ ishoqali
 ishoqnazar
 ishoqqul
 ishoqtora
+ishoqtura
 ishoqxoja
+ishoqxuja
 ishrat
 ishratxon
 iskandar
@@ -3120,8 +3122,6 @@ istatulla
 istedod
 istiqbol
 istiqlol
-is’hoqtura
-is’hoqxuja
 itan
 itboy
 itemas
@@ -3842,7 +3842,7 @@ kuchtirak
 kuchxuja
 kuganak
 kugarchin
-kug‘ay
+kugay
 kuhzod
 kujak
 kujbon
@@ -3908,7 +3908,7 @@ kurkaboy
 kurkamboy
 kurpa
 kurpaali
-kurug‘li
+kurugli
 kurush
 kusa
 kusak
@@ -3954,7 +3954,7 @@ lochin
 lochinbek
 lolabek
 lorenso
-loyiq, loyiq
+loyiqloyiq
 lozim
 lui
 luis
@@ -4282,11 +4282,12 @@ mamurali
 mamurqul
 mamurtoy
 mamurxoja
+mamurxuja
 mangit
 mangittora
+mangittura
 mangu
 manguberdi
-mang‘ittura
 manish
 manishvor
 mannof
@@ -4356,6 +4357,7 @@ marufali
 marufjon
 marufkamol
 marufxoja
+marufxuja
 marzbon
 masaid
 masalbek
@@ -4396,6 +4398,7 @@ masum
 masumali
 masumqul
 masumxoja
+masumxuja
 matali
 matazim
 matbobo
@@ -4507,9 +4510,6 @@ mazhariddin
 mazid
 mazohir
 mazur
-ma’murxuja
-ma’rufxuja
-ma’sumxuja
 mehmon
 mehmonali
 mehmonbek
@@ -5109,7 +5109,7 @@ muftulla
 muganniy
 mugis
 mugtafi
-mug‘ulxon
+mugulxon
 muhammad
 muhammadafzal
 muhammadahmad
@@ -5620,7 +5620,7 @@ muzir
 muzohir
 muzohirulhaq
 muzrob
-mаxsunbеk
+mxsunbk
 nabaviya
 nabi
 nabiahmad
@@ -6017,8 +6017,8 @@ nozim
 nozimsher
 nozir
 nozirmuhammad
-nug‘ay
-nug‘aybek
+nugay
+nugaybek
 nuh
 nukar
 numon
@@ -6398,7 +6398,7 @@ oqtora
 oqtosh
 oqtoy
 oqtoyloq
-oqtug‘on
+oqtugon
 oqtuqli
 oqtura
 oqtuygun
@@ -6581,11 +6581,10 @@ oytoxta
 oytugar
 oytugdi
 oytugon
-oytug‘on
 oyturdi
 oytuv
 oytuxta
-oyug‘il
+oyugil
 oyyigit
 ozar
 ozardod
@@ -7081,8 +7080,8 @@ quluntoy
 qumriddin
 qunduzali
 qunduzboy
-qung‘irboy
-qung‘irot
+qungirboy
+qungirot
 qunon
 qunoqboy
 quqon
@@ -7122,7 +7121,7 @@ qurbonyoz
 qurbuga
 qurchiboy
 qurdosh
-qurg‘on
+qurgon
 quriqboy
 qurishjon
 qurniyoz
@@ -8012,7 +8011,7 @@ sayidsho
 sayidsulton
 sayidtemir
 sayidtogon
-sayidtug‘on
+sayidtugon
 sayidumar
 sayiduroz
 sayidusmon
@@ -8447,11 +8446,11 @@ talabmirza
 talant
 talat
 talattora
+talattura
 talbak
 talgat
 talhak
 talim
-tal’attura
 tanaboy
 tandor
 tangir
@@ -8626,6 +8625,7 @@ tirkashxuja
 tirkov
 tirmash
 tirsak
+tmur
 tofon
 toga
 togali
@@ -8899,7 +8899,7 @@ toshtogon
 toshtol
 toshtoxta
 toshtoy
-toshtug‘on
+toshtugon
 toshtul
 toshturdi
 toshturgun
@@ -9012,11 +9012,11 @@ tugma
 tugmat
 tugmuhammad
 tugmurod
-tug‘on
-tug‘onmirza
-tug‘ontug‘di
-tug‘ri
-tug‘rul
+tugon
+tugonmirza
+tugontugdi
+tugri
+tugrul
 tuhfa
 tuhfatulla
 tuhvat
@@ -9040,14 +9040,15 @@ tulaxuja
 tulboy
 tulchiboy
 tuldi
-tulg‘ash
-tulg‘on
+tulgash
+tulgon
 tuli
 tulin
 tulis
 tulkiboy
 tulmurod
 tulov
+tulponxon
 tulqin
 tulqinxuja
 tultoy
@@ -9058,7 +9059,7 @@ tuman
 tumor
 tunchi
 tung
-tung‘ich
+tungich
 tunli
 tupchi
 tupchigul
@@ -9141,6 +9142,7 @@ turdisaid
 turdisho
 turdivali
 turgan
+turgay
 turgon
 turgonali
 turgonqul
@@ -9148,9 +9150,8 @@ turgun
 turgunali
 turgunmirza
 turgunpolat
+turgunpulat
 turgunsho
-turg‘ay
-turg‘unpulat
 turishboy
 turjon
 turkboy
@@ -9255,7 +9256,7 @@ tuydik
 tuygun
 tuygunjon
 tuygunxoja
-tuyg‘unxuja
+tuygunxuja
 tuyim
 tuyinboy
 tuyjon
@@ -9291,7 +9292,6 @@ tuzalxuja
 tuzan
 tuzbek
 tuzmuhammad
-tеmur
 ubay
 ubaydulla
 ubaymirza
@@ -9340,13 +9340,13 @@ ulugmuhammad
 ulugmurod
 ulugnazar
 ulugqozi
+ulugquzi
 ulugshoh
 ulugturdi
 ulugxoja
 ulugxon
+ulugxuja
 ulugzoda
-ulug‘quzi
-ulug‘xuja
 ulus
 ulusbek
 ulxoja
@@ -10332,7 +10332,7 @@ yuzli
 yuzogli
 yuzqul
 yuztoy
-yuzug‘li
+yuzugli
 yuzyashar
 zabar
 zabardast
